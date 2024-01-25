@@ -2,6 +2,8 @@ header{
     height: 250px;
     background-color: orange;
     border-radius: 10px;
+    background-image: url(https://images.pexels.com/photos/19910561/pexels-photo-19910561.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover; /*讓圖片在區域內等比縮放，超過自動裁切  */
 }
 main{
     min-height: 800px;
